@@ -36,6 +36,7 @@ Open-Meteo fills this gap and offers free weather forecast APIs for non-commerci
 Apps:
 - [WeatherGraph](https://weathergraph.app) Apple Watch App
 - [Slideshow](https://slideshow.digital/) Digital Signage app for Android
+- [Spots Guru](https://www.spots.guru) Weather forecast for lazy, the best wind & wave spots around you. 
 
 Repositories:
 - [Captain Cold](https://github.com/cburton-godaddy/captain-cold) Simple Open-Meteo -> Discord integration
